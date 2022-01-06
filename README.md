@@ -19,3 +19,17 @@ https://www.youtube.com/watch?v=xgSGOh4LgNo&list=PLYleJ_Xl7BHRVcU1YikP6ciaDptVk3
 Forgot password
 
 https://stackoverflow.com/questions/54515444/how-to-reset-firebase-auth-password-in-react-native
+
+In your root level babel.config.js, Add Reanimated Plugin just like Below;
+
+module.exports = {
+
+  presets: ['module:metro-react-native-babel-preset'],
+  
+  plugins: ['react-native-reanimated/plugin'],
+  
+};
+
+then use below command
+
+npx react-native start --reset-cache
