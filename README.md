@@ -6,6 +6,8 @@ https://firebase.google.com/docs/web/modular-upgrade
 
 https://console.firebase.google.com/project/story-mobile/authentication/users
 
+https://github.com/mattfrances/FirebaseExpoAuthentication/blob/main/screens/LoginScreen.js
+
 Login, resgister and logout using firebase:
 
 https://www.youtube.com/watch?v=ql4J6SpLXZA
