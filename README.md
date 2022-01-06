@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=ql4J6SpLXZA
 Storing data by using firestore
 
 https://www.youtube.com/watch?v=xgSGOh4LgNo&list=PLYleJ_Xl7BHRVcU1YikP6ciaDptVk35Kx&index=2
+
+Forgot password
+
+https://stackoverflow.com/questions/54515444/how-to-reset-firebase-auth-password-in-react-native
