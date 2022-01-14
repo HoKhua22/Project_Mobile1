@@ -33,3 +33,5 @@ module.exports = {
 then use below command
 
 npx react-native start --reset-cache
+
+https://github.com/machadop1407/firebase-react-crud/blob/main/src/App.js
